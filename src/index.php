@@ -1,8 +1,8 @@
 <?php
 
-use Engine\Test2;
+use Engine\Test;
 
 require "vendor/autoload.php";
 
-$test = new Test2();
+$test = new Test();
 var_dump($test);

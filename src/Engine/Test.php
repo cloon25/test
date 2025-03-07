@@ -2,7 +2,7 @@
 
 namespace Engine;
 
-class Test4
+class Test
 {
 
 }
