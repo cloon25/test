@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Engine\\": "Engine/",
+      "Public\\": "Public/",
+      "Admin\\": "Admin/"
+    }
+  }
+}
